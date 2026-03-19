@@ -1,7 +1,11 @@
 央视频道,#genre#
-更新日期: 2026-3-19 18:35:14,http://play.kankanlive.com/live/1698234869325962.m3u8
+更新日期: 2026-3-20 06:30:09,http://pull-hls-f11.douyincdn.com/media/stream-407276916281705132.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774564168&major_anchor_level=common&sign=10af48a9686fb5f24bbd1f51ccee0e95&t_id=037-202603200629278C5828870586B7E744B6-wbhexN
+CCTV1综合,http://pull-hls-f11.douyincdn.com/media/stream-407276916281705132.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774564168&major_anchor_level=common&sign=10af48a9686fb5f24bbd1f51ccee0e95&t_id=037-202603200629278C5828870586B7E744B6-wbhexN
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
+CCTV2财经,http://pull-hls-f1.douyincdn.com/media/stream-695486009191695020/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260319185709970C130B04BB06F3F387-CrVCFI&wsSecret=937eec71f76b35ab9e0645446783c330&wsTime=69bbd686
 CCTV3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+CCTV13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695505348295131820.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774522531&major_anchor_level=common&sign=a97da9d1b4c332580a0e83b77cdb2206&t_id=037-2026031918553112BD480F88E3000CDAC3-gkb2g7
+CCTV13新闻,http://pull-hls-f1.douyincdn.com/media/stream-695440843385864876/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260319180016A80564ED5545468EA742-GFdhqq&wsSecret=34a32822799c54e7dcdef972de5a9201&wsTime=69bbc931
 CCTV16奥林匹克,http://69.30.246.194/live/cctv16.m3u8
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 卫视频道,#genre#
@@ -84,8 +88,6 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 龙泉电视台,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 江苏地区,#genre#
-南京文旅纪录,http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
-南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 镇江2,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
@@ -299,8 +301,11 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 秦安电视台,https://play.kankanlive.com/live/1680577080200944.m3u8
 秦安电视台,http://play.kankanlive.com/live/1680577080200944.flv
 超清频道,#genre#
+CCTV1超清,http://pull-hls-f11.douyincdn.com/media/stream-407276916281705132.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774564168&major_anchor_level=common&sign=10af48a9686fb5f24bbd1f51ccee0e95&t_id=037-202603200629278C5828870586B7E744B6-wbhexN
+CCTV2超清,http://pull-hls-f1.douyincdn.com/media/stream-695486009191695020/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260319185709970C130B04BB06F3F387-CrVCFI&wsSecret=937eec71f76b35ab9e0645446783c330&wsTime=69bbd686
 CCTV3超清,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
-CCTV13超清,http://pull-hls-f11.douyincdn.com/media/stream-695440843385864876.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774323413&major_anchor_level=common&sign=bfb8ff74617fcdff19b7f069345bddbf&t_id=037-202603171136527F07B27D8B65BC930621-2vH0sa
+CCTV13超清,http://pull-hls-f11.douyincdn.com/media/stream-695505348295131820.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774522531&major_anchor_level=common&sign=a97da9d1b4c332580a0e83b77cdb2206&t_id=037-2026031918553112BD480F88E3000CDAC3-gkb2g7
+CCTV13超清,http://pull-hls-f1.douyincdn.com/media/stream-695440843385864876/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260319180016A80564ED5545468EA742-GFdhqq&wsSecret=34a32822799c54e7dcdef972de5a9201&wsTime=69bbc931
 CCTV16超清,http://69.30.246.194/live/cctv16.m3u8
 CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
