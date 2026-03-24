@@ -1,12 +1,13 @@
 央视频道,#genre#
-更新日期: 2026-3-24 09:01:36,http://play.kankanlive.com/live/1698234869325962.m3u8
+更新日期: 2026-3-25 06:29:12,http://pull-hls-f11.douyincdn.com/media/stream-407305982338400940.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774996096&major_anchor_level=common&sign=106e74adea885a99624db213f9e7a624&t_id=037-202603250628152EEAD1FDEDE598333DF1-Wxm5kJ
+CCTV1综合,http://pull-hls-f11.douyincdn.com/media/stream-407305982338400940.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774996096&major_anchor_level=common&sign=106e74adea885a99624db213f9e7a624&t_id=037-202603250628152EEAD1FDEDE598333DF1-Wxm5kJ
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
+CCTV2财经,http://pull-hls-f1.douyincdn.com/media/stream-695486009191695020/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-2026032409005960BB56F83EA008D62341-4pTakw&wsSecret=410cd9b1bd1a1dd11d2b4e67f867f90a&wsTime=69c1e24b
 CCTV13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695505348295131820.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774918742&major_anchor_level=common&sign=a4d912bb7632093a3abd3ba49b433cfb&t_id=037-20260324085902304A0E23B51C7C6CBF90-Ll7Kft
 CCTV13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695522156380160684.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774918775&major_anchor_level=common&sign=652227e1ccbd96789758df03130042e8&t_id=037-20260324085935D9CC04E5586526367433-KPv2OB
 CCTV13新闻,http://pull-hls-f11.douyincdn.com/media/stream-695440843385864876.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774918808&major_anchor_level=common&sign=b3878c1a2247d98cde883421739f259f&t_id=037-20260324090008721E99ACAF8E7B55FE8C-EJGazO
 CCTV16奥林匹克,http://69.30.246.194/live/cctv16.m3u8
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-CCTV17农业农村,http://pull-hls-f11.douyincdn.com/media/stream-407300149638333100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774918675&major_anchor_level=common&sign=d16ed2b4763ac4d27b9e4c5f44a1598a&t_id=037-2026032408575561E42E69F9AEF4397C87-YUgwCT
 卫视频道,#genre#
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
@@ -86,6 +87,9 @@ CCTV17农业农村,http://pull-hls-f11.douyincdn.com/media/stream-40730014963833
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 龙泉电视台,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+江苏地区,#genre#
+镇江2,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 黑龙江地区,#genre#
 哈尔滨新闻综合,https://rmplive.hljtv.com/live/haerbin.m3u8
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
@@ -169,6 +173,7 @@ CCTV17农业农村,http://pull-hls-f11.douyincdn.com/media/stream-40730014963833
 新乡县综合,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
 舞钢综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
+鹤壁新闻,http://pili-live-hls.hebitv.com/hebi/hbtv.m3u8
 灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
 灵宝新闻综合,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
 淮滨综合,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
@@ -296,12 +301,12 @@ CCTV17农业农村,http://pull-hls-f11.douyincdn.com/media/stream-40730014963833
 秦安电视台,https://play.kankanlive.com/live/1680577080200944.m3u8
 秦安电视台,http://play.kankanlive.com/live/1680577080200944.flv
 超清频道,#genre#
+CCTV1超清,http://pull-hls-f11.douyincdn.com/media/stream-407305982338400940.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774996096&major_anchor_level=common&sign=106e74adea885a99624db213f9e7a624&t_id=037-202603250628152EEAD1FDEDE598333DF1-Wxm5kJ
 CCTV13超清,http://pull-hls-f11.douyincdn.com/media/stream-695505348295131820.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774918742&major_anchor_level=common&sign=a4d912bb7632093a3abd3ba49b433cfb&t_id=037-20260324085902304A0E23B51C7C6CBF90-Ll7Kft
 CCTV13超清,http://pull-hls-f11.douyincdn.com/media/stream-695522156380160684.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774918775&major_anchor_level=common&sign=652227e1ccbd96789758df03130042e8&t_id=037-20260324085935D9CC04E5586526367433-KPv2OB
 CCTV13超清,http://pull-hls-f11.douyincdn.com/media/stream-695440843385864876.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774918808&major_anchor_level=common&sign=b3878c1a2247d98cde883421739f259f&t_id=037-20260324090008721E99ACAF8E7B55FE8C-EJGazO
 CCTV16超清,http://69.30.246.194/live/cctv16.m3u8
 CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-CCTV17超清,http://pull-hls-f11.douyincdn.com/media/stream-407300149638333100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774918675&major_anchor_level=common&sign=d16ed2b4763ac4d27b9e4c5f44a1598a&t_id=037-2026032408575561E42E69F9AEF4397C87-YUgwCT
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视超清,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
 湖南卫视超清,http://69.30.246.194/live/hnws.m3u8
