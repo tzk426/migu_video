@@ -459,11 +459,8 @@
     <programme channel="CCTV5体育" start="20260630000000 +0800" stop="20260630033000 +0800">
         <title lang="zh">2026世界杯-1/16决赛（巴西—日本）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260630033000 +0800" stop="20260630070000 +0800">
+    <programme channel="CCTV5体育" start="20260630033000 +0800" stop="20260630073000 +0800">
         <title lang="zh">2026世界杯-1/16决赛（德国—巴拉圭）</title>
-    </programme>
-    <programme channel="CCTV5体育" start="20260630070000 +0800" stop="20260630073000 +0800">
-        <title lang="zh">燃动金杯-2026年世界杯小组赛第二轮进球集锦</title>
     </programme>
     <programme channel="CCTV5体育" start="20260630073000 +0800" stop="20260630120000 +0800">
         <title lang="zh">2026世界杯-1/16决赛（荷兰—摩洛哥）</title>
